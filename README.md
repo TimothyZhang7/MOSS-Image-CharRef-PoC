@@ -7,7 +7,7 @@ anime character, the prompt describes a new scene and pose, and the model tries 
 It is not tied to any particular character: any anime character can be the reference. The characters shown below
 are only examples.
 
-Also on [Hugging Face](https://huggingface.co/pleiades7/MOSS-Image-CharRef-PoC).
+Also on [Hugging Face](https://huggingface.co/pleiades7/MOSS-Image-CharRef-PoC) and [Civitai](https://civitai.com/models/3011337/moss-image-charref-early-experiment).
 
 **Download the LoRA:** [`moss_image_charref_poc.safetensors`](https://github.com/TimothyZhang7/MOSS-Image-CharRef-PoC/releases/latest/download/moss_image_charref_poc.safetensors)
 (145 MB, from the [latest release](https://github.com/TimothyZhang7/MOSS-Image-CharRef-PoC/releases/latest); also on
